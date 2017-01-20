@@ -10,6 +10,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("This is another Hello World!"); // added a comment
 		System.out.println("Line 2");
+    System.out.println("Sean says hi!");
 	}
 
 }
